@@ -9,7 +9,6 @@ import Foundation
 import CoreLocation
 import UIKit
 import SwiftUI
-import CoreLocation
 
 
 class EmergencyAlert: ObservableObject {
